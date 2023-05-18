@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.ppp{
+    border: 2px solid red;
+}
+
+
+.select{
+    border: 2px solid #000;
+    margin: 20px;
+   padding: 5px;
+   display:flex;
+   flex-flow: row wrap;
+   justify-content:space-between;
+
+
+
+}   
+
+
+.flex1 {
+    background: blueviolet;
+    padding: 2px;
+}
+.flex2{
+    background: red;
+    padding: 2px;
+}
+.flex3{
+    background: gold;
+    padding: 2px;
+}
+.flex4{
+    background: rgb(15, 153, 29);
+    padding: 2px;
+}
+.flex5{
+    background: rgb(65, 179, 164);
+    padding: 2px;
+}
